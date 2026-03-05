@@ -19,7 +19,7 @@ public class Variaveis {
 
 //        3.Mudando valores
         idade = 22;
-        altura = 1.68;
+        altura = 1.685;
         gostoDeProgramar = false;
         nome = "Flávia";
 
