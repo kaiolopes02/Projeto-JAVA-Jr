@@ -1,4 +1,4 @@
-package Fundamentos_de_JAVA_e_OO;
+package Fluxo_de_Controle;
 
 import java.util.Random;
 import java.util.Scanner;
